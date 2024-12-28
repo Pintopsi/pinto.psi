@@ -14,4 +14,4 @@ Este proyecto tiene como objetivo proporcionar un espacio para compartir recurso
 
 ## Contacto
 
-Si tienes preguntas o sugerencias, no dudes en escribirme a [tuemail@example.com](mailto:tuemail@example.com).
+Si tienes preguntas o sugerencias, no dudes en escribirme a [pinto.serviciospsicologicos@gmail.com](mailto:tuemail@example.com).
